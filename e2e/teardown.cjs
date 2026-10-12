@@ -1,0 +1,1 @@
+module.exports=async()=>{try{const state=await(await fetch('http://127.0.0.1:8765/api/state')).json();await fetch('http://127.0.0.1:8765/api/test/stop',{method:'POST',headers:{'Content-Type':'application/json','X-HomeAccounts-Token':state.csrf},body:'{}'});}catch{}};

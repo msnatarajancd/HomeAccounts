@@ -1,0 +1,13 @@
+date,particulars,merchant,category,expense_amount,income_amount,currency,account,subcategory,monthly_budget,budget_period,payment_method
+2026-09-02,Fictional demo monthly pay,Example Employer,Income,,3200.00,EUR,Demo checking,,,,Demo transfer
+2026-09-04,Fictional demo groceries,Cedar Basket Demo,Groceries,72.65,,EUR,Demo checking,Food,250.00,2026-09,Demo debit
+2026-09-08,Fictional demo supplies,Harbor Supplies Demo,Household,68.20,,EUR,Demo checking,Cleaning,200.00,2026-09,Demo debit
+2026-09-12,Fictional demo dinner,Juniper Table Demo,Dining,31.80,,EUR,Demo checking,,150.00,2026-09,Demo debit
+2026-10-01,Fictional demo monthly pay,Example Employer,Income,,3250.00,EUR,Demo checking,,,,Demo transfer
+2026-10-03,Fictional demo groceries,Cedar Basket Demo,Groceries,84.35,,EUR,Demo checking,Food,250.00,2026-10,Demo debit
+2026-10-04,Fictional demo supplies,Harbor Supplies Demo,Household,146.30,,EUR,Demo checking,Cleaning,200.00,2026-10,Demo debit
+2026-10-05,Fictional demo refund,Harbor Supplies Demo,Household,-16.30,,EUR,Demo checking,Cleaning,200.00,2026-10,Demo debit
+2026-10-06,Fictional demo lunch,Juniper Table Demo,Dining,18.40,,EUR,Demo checking,,150.00,2026-10,Demo debit
+2026-10-07,Fictional demo freelance pay,Example Client,Income,,18000.00,INR,Demo savings,,,,Demo transfer
+2026-10-08,Fictional demo travel,Orchid Transit Demo,Transport,740.00,,INR,Demo savings,,1800.00,2026-10,Demo debit
+2026-10-09,Fictional demo groceries,Orchid Basket Demo,Groceries,1260.00,,INR,Demo savings,Food,3000.00,2026-10,Demo debit

@@ -1,0 +1,325 @@
+period,category,subcategory,amount,currency
+2025-11,Housing,Rent,2100.00,USD
+2025-11,Utilities,Electricity,145.00,USD
+2025-11,Utilities,Water,45.00,USD
+2025-11,Utilities,Natural gas,65.00,USD
+2025-11,Utilities,Internet,75.00,USD
+2025-11,Utilities,Mobile phone,110.00,USD
+2025-11,Food,Groceries,650.00,USD
+2025-11,Food,Dining out,220.00,USD
+2025-11,Food,Coffee,40.00,USD
+2025-11,Transportation,Fuel,170.00,USD
+2025-11,Transportation,Public transit,75.00,USD
+2025-11,Transportation,Auto insurance,130.00,USD
+2025-11,Transportation,Maintenance,85.00,USD
+2025-11,Household,Supplies,90.00,USD
+2025-11,Household,Furniture,80.00,USD
+2025-11,Health,Pharmacy,35.00,USD
+2025-11,Health,Medical visits,80.00,USD
+2025-11,Health,Fitness,45.00,USD
+2025-11,Family,Childcare,480.00,USD
+2025-11,Family,School supplies,60.00,USD
+2025-11,Personal,Clothing,100.00,USD
+2025-11,Personal,Personal care,65.00,USD
+2025-11,Entertainment,Streaming,40.00,USD
+2025-11,Entertainment,Activities,100.00,USD
+2025-11,Giving,Charity,60.00,USD
+2025-11,Giving,Gifts,90.00,USD
+2025-11,Travel,Trips,250.00,USD
+2025-12,Housing,Rent,2100.00,USD
+2025-12,Utilities,Electricity,145.00,USD
+2025-12,Utilities,Water,45.00,USD
+2025-12,Utilities,Natural gas,65.00,USD
+2025-12,Utilities,Internet,75.00,USD
+2025-12,Utilities,Mobile phone,110.00,USD
+2025-12,Food,Groceries,650.00,USD
+2025-12,Food,Dining out,220.00,USD
+2025-12,Food,Coffee,40.00,USD
+2025-12,Transportation,Fuel,170.00,USD
+2025-12,Transportation,Public transit,75.00,USD
+2025-12,Transportation,Auto insurance,130.00,USD
+2025-12,Transportation,Maintenance,85.00,USD
+2025-12,Household,Supplies,90.00,USD
+2025-12,Household,Furniture,80.00,USD
+2025-12,Health,Pharmacy,35.00,USD
+2025-12,Health,Medical visits,80.00,USD
+2025-12,Health,Fitness,45.00,USD
+2025-12,Family,Childcare,480.00,USD
+2025-12,Family,School supplies,60.00,USD
+2025-12,Personal,Clothing,100.00,USD
+2025-12,Personal,Personal care,65.00,USD
+2025-12,Entertainment,Streaming,40.00,USD
+2025-12,Entertainment,Activities,100.00,USD
+2025-12,Giving,Charity,60.00,USD
+2025-12,Giving,Gifts,90.00,USD
+2025-12,Travel,Trips,250.00,USD
+2026-01,Housing,Rent,2100.00,USD
+2026-01,Utilities,Electricity,145.00,USD
+2026-01,Utilities,Water,45.00,USD
+2026-01,Utilities,Natural gas,65.00,USD
+2026-01,Utilities,Internet,75.00,USD
+2026-01,Utilities,Mobile phone,110.00,USD
+2026-01,Food,Groceries,650.00,USD
+2026-01,Food,Dining out,220.00,USD
+2026-01,Food,Coffee,40.00,USD
+2026-01,Transportation,Fuel,170.00,USD
+2026-01,Transportation,Public transit,75.00,USD
+2026-01,Transportation,Auto insurance,130.00,USD
+2026-01,Transportation,Maintenance,85.00,USD
+2026-01,Household,Supplies,90.00,USD
+2026-01,Household,Furniture,80.00,USD
+2026-01,Health,Pharmacy,35.00,USD
+2026-01,Health,Medical visits,80.00,USD
+2026-01,Health,Fitness,45.00,USD
+2026-01,Family,Childcare,480.00,USD
+2026-01,Family,School supplies,60.00,USD
+2026-01,Personal,Clothing,100.00,USD
+2026-01,Personal,Personal care,65.00,USD
+2026-01,Entertainment,Streaming,40.00,USD
+2026-01,Entertainment,Activities,100.00,USD
+2026-01,Giving,Charity,60.00,USD
+2026-01,Giving,Gifts,90.00,USD
+2026-01,Travel,Trips,250.00,USD
+2026-02,Housing,Rent,2100.00,USD
+2026-02,Utilities,Electricity,145.00,USD
+2026-02,Utilities,Water,45.00,USD
+2026-02,Utilities,Natural gas,65.00,USD
+2026-02,Utilities,Internet,75.00,USD
+2026-02,Utilities,Mobile phone,110.00,USD
+2026-02,Food,Groceries,650.00,USD
+2026-02,Food,Dining out,220.00,USD
+2026-02,Food,Coffee,40.00,USD
+2026-02,Transportation,Fuel,170.00,USD
+2026-02,Transportation,Public transit,75.00,USD
+2026-02,Transportation,Auto insurance,130.00,USD
+2026-02,Transportation,Maintenance,85.00,USD
+2026-02,Household,Supplies,90.00,USD
+2026-02,Household,Furniture,80.00,USD
+2026-02,Health,Pharmacy,35.00,USD
+2026-02,Health,Medical visits,80.00,USD
+2026-02,Health,Fitness,45.00,USD
+2026-02,Family,Childcare,480.00,USD
+2026-02,Family,School supplies,60.00,USD
+2026-02,Personal,Clothing,100.00,USD
+2026-02,Personal,Personal care,65.00,USD
+2026-02,Entertainment,Streaming,40.00,USD
+2026-02,Entertainment,Activities,100.00,USD
+2026-02,Giving,Charity,60.00,USD
+2026-02,Giving,Gifts,90.00,USD
+2026-02,Travel,Trips,250.00,USD
+2026-03,Housing,Rent,2100.00,USD
+2026-03,Utilities,Electricity,145.00,USD
+2026-03,Utilities,Water,45.00,USD
+2026-03,Utilities,Natural gas,65.00,USD
+2026-03,Utilities,Internet,75.00,USD
+2026-03,Utilities,Mobile phone,110.00,USD
+2026-03,Food,Groceries,650.00,USD
+2026-03,Food,Dining out,220.00,USD
+2026-03,Food,Coffee,40.00,USD
+2026-03,Transportation,Fuel,170.00,USD
+2026-03,Transportation,Public transit,75.00,USD
+2026-03,Transportation,Auto insurance,130.00,USD
+2026-03,Transportation,Maintenance,85.00,USD
+2026-03,Household,Supplies,90.00,USD
+2026-03,Household,Furniture,80.00,USD
+2026-03,Health,Pharmacy,35.00,USD
+2026-03,Health,Medical visits,80.00,USD
+2026-03,Health,Fitness,45.00,USD
+2026-03,Family,Childcare,480.00,USD
+2026-03,Family,School supplies,60.00,USD
+2026-03,Personal,Clothing,100.00,USD
+2026-03,Personal,Personal care,65.00,USD
+2026-03,Entertainment,Streaming,40.00,USD
+2026-03,Entertainment,Activities,100.00,USD
+2026-03,Giving,Charity,60.00,USD
+2026-03,Giving,Gifts,90.00,USD
+2026-03,Travel,Trips,250.00,USD
+2026-04,Housing,Rent,2100.00,USD
+2026-04,Utilities,Electricity,145.00,USD
+2026-04,Utilities,Water,45.00,USD
+2026-04,Utilities,Natural gas,65.00,USD
+2026-04,Utilities,Internet,75.00,USD
+2026-04,Utilities,Mobile phone,110.00,USD
+2026-04,Food,Groceries,650.00,USD
+2026-04,Food,Dining out,220.00,USD
+2026-04,Food,Coffee,40.00,USD
+2026-04,Transportation,Fuel,170.00,USD
+2026-04,Transportation,Public transit,75.00,USD
+2026-04,Transportation,Auto insurance,130.00,USD
+2026-04,Transportation,Maintenance,85.00,USD
+2026-04,Household,Supplies,90.00,USD
+2026-04,Household,Furniture,80.00,USD
+2026-04,Health,Pharmacy,35.00,USD
+2026-04,Health,Medical visits,80.00,USD
+2026-04,Health,Fitness,45.00,USD
+2026-04,Family,Childcare,480.00,USD
+2026-04,Family,School supplies,60.00,USD
+2026-04,Personal,Clothing,100.00,USD
+2026-04,Personal,Personal care,65.00,USD
+2026-04,Entertainment,Streaming,40.00,USD
+2026-04,Entertainment,Activities,100.00,USD
+2026-04,Giving,Charity,60.00,USD
+2026-04,Giving,Gifts,90.00,USD
+2026-04,Travel,Trips,250.00,USD
+2026-05,Housing,Rent,2100.00,USD
+2026-05,Utilities,Electricity,145.00,USD
+2026-05,Utilities,Water,45.00,USD
+2026-05,Utilities,Natural gas,65.00,USD
+2026-05,Utilities,Internet,75.00,USD
+2026-05,Utilities,Mobile phone,110.00,USD
+2026-05,Food,Groceries,650.00,USD
+2026-05,Food,Dining out,220.00,USD
+2026-05,Food,Coffee,40.00,USD
+2026-05,Transportation,Fuel,170.00,USD
+2026-05,Transportation,Public transit,75.00,USD
+2026-05,Transportation,Auto insurance,130.00,USD
+2026-05,Transportation,Maintenance,85.00,USD
+2026-05,Household,Supplies,90.00,USD
+2026-05,Household,Furniture,80.00,USD
+2026-05,Health,Pharmacy,35.00,USD
+2026-05,Health,Medical visits,80.00,USD
+2026-05,Health,Fitness,45.00,USD
+2026-05,Family,Childcare,480.00,USD
+2026-05,Family,School supplies,60.00,USD
+2026-05,Personal,Clothing,100.00,USD
+2026-05,Personal,Personal care,65.00,USD
+2026-05,Entertainment,Streaming,40.00,USD
+2026-05,Entertainment,Activities,100.00,USD
+2026-05,Giving,Charity,60.00,USD
+2026-05,Giving,Gifts,90.00,USD
+2026-05,Travel,Trips,250.00,USD
+2026-06,Housing,Rent,2100.00,USD
+2026-06,Utilities,Electricity,145.00,USD
+2026-06,Utilities,Water,45.00,USD
+2026-06,Utilities,Natural gas,65.00,USD
+2026-06,Utilities,Internet,75.00,USD
+2026-06,Utilities,Mobile phone,110.00,USD
+2026-06,Food,Groceries,650.00,USD
+2026-06,Food,Dining out,220.00,USD
+2026-06,Food,Coffee,40.00,USD
+2026-06,Transportation,Fuel,170.00,USD
+2026-06,Transportation,Public transit,75.00,USD
+2026-06,Transportation,Auto insurance,130.00,USD
+2026-06,Transportation,Maintenance,85.00,USD
+2026-06,Household,Supplies,90.00,USD
+2026-06,Household,Furniture,80.00,USD
+2026-06,Health,Pharmacy,35.00,USD
+2026-06,Health,Medical visits,80.00,USD
+2026-06,Health,Fitness,45.00,USD
+2026-06,Family,Childcare,480.00,USD
+2026-06,Family,School supplies,60.00,USD
+2026-06,Personal,Clothing,100.00,USD
+2026-06,Personal,Personal care,65.00,USD
+2026-06,Entertainment,Streaming,40.00,USD
+2026-06,Entertainment,Activities,100.00,USD
+2026-06,Giving,Charity,60.00,USD
+2026-06,Giving,Gifts,90.00,USD
+2026-06,Travel,Trips,250.00,USD
+2026-07,Housing,Rent,2100.00,USD
+2026-07,Utilities,Electricity,145.00,USD
+2026-07,Utilities,Water,45.00,USD
+2026-07,Utilities,Natural gas,65.00,USD
+2026-07,Utilities,Internet,75.00,USD
+2026-07,Utilities,Mobile phone,110.00,USD
+2026-07,Food,Groceries,650.00,USD
+2026-07,Food,Dining out,220.00,USD
+2026-07,Food,Coffee,40.00,USD
+2026-07,Transportation,Fuel,170.00,USD
+2026-07,Transportation,Public transit,75.00,USD
+2026-07,Transportation,Auto insurance,130.00,USD
+2026-07,Transportation,Maintenance,85.00,USD
+2026-07,Household,Supplies,90.00,USD
+2026-07,Household,Furniture,80.00,USD
+2026-07,Health,Pharmacy,35.00,USD
+2026-07,Health,Medical visits,80.00,USD
+2026-07,Health,Fitness,45.00,USD
+2026-07,Family,Childcare,480.00,USD
+2026-07,Family,School supplies,60.00,USD
+2026-07,Personal,Clothing,100.00,USD
+2026-07,Personal,Personal care,65.00,USD
+2026-07,Entertainment,Streaming,40.00,USD
+2026-07,Entertainment,Activities,100.00,USD
+2026-07,Giving,Charity,60.00,USD
+2026-07,Giving,Gifts,90.00,USD
+2026-07,Travel,Trips,250.00,USD
+2026-08,Housing,Rent,2100.00,USD
+2026-08,Utilities,Electricity,145.00,USD
+2026-08,Utilities,Water,45.00,USD
+2026-08,Utilities,Natural gas,65.00,USD
+2026-08,Utilities,Internet,75.00,USD
+2026-08,Utilities,Mobile phone,110.00,USD
+2026-08,Food,Groceries,650.00,USD
+2026-08,Food,Dining out,220.00,USD
+2026-08,Food,Coffee,40.00,USD
+2026-08,Transportation,Fuel,170.00,USD
+2026-08,Transportation,Public transit,75.00,USD
+2026-08,Transportation,Auto insurance,130.00,USD
+2026-08,Transportation,Maintenance,85.00,USD
+2026-08,Household,Supplies,90.00,USD
+2026-08,Household,Furniture,80.00,USD
+2026-08,Health,Pharmacy,35.00,USD
+2026-08,Health,Medical visits,80.00,USD
+2026-08,Health,Fitness,45.00,USD
+2026-08,Family,Childcare,480.00,USD
+2026-08,Family,School supplies,60.00,USD
+2026-08,Personal,Clothing,100.00,USD
+2026-08,Personal,Personal care,65.00,USD
+2026-08,Entertainment,Streaming,40.00,USD
+2026-08,Entertainment,Activities,100.00,USD
+2026-08,Giving,Charity,60.00,USD
+2026-08,Giving,Gifts,90.00,USD
+2026-08,Travel,Trips,250.00,USD
+2026-09,Housing,Rent,2100.00,USD
+2026-09,Utilities,Electricity,145.00,USD
+2026-09,Utilities,Water,45.00,USD
+2026-09,Utilities,Natural gas,65.00,USD
+2026-09,Utilities,Internet,75.00,USD
+2026-09,Utilities,Mobile phone,110.00,USD
+2026-09,Food,Groceries,650.00,USD
+2026-09,Food,Dining out,220.00,USD
+2026-09,Food,Coffee,40.00,USD
+2026-09,Transportation,Fuel,170.00,USD
+2026-09,Transportation,Public transit,75.00,USD
+2026-09,Transportation,Auto insurance,130.00,USD
+2026-09,Transportation,Maintenance,85.00,USD
+2026-09,Household,Supplies,90.00,USD
+2026-09,Household,Furniture,80.00,USD
+2026-09,Health,Pharmacy,35.00,USD
+2026-09,Health,Medical visits,80.00,USD
+2026-09,Health,Fitness,45.00,USD
+2026-09,Family,Childcare,480.00,USD
+2026-09,Family,School supplies,60.00,USD
+2026-09,Personal,Clothing,100.00,USD
+2026-09,Personal,Personal care,65.00,USD
+2026-09,Entertainment,Streaming,40.00,USD
+2026-09,Entertainment,Activities,100.00,USD
+2026-09,Giving,Charity,60.00,USD
+2026-09,Giving,Gifts,90.00,USD
+2026-09,Travel,Trips,250.00,USD
+2026-10,Housing,Rent,2100.00,USD
+2026-10,Utilities,Electricity,145.00,USD
+2026-10,Utilities,Water,45.00,USD
+2026-10,Utilities,Natural gas,65.00,USD
+2026-10,Utilities,Internet,75.00,USD
+2026-10,Utilities,Mobile phone,110.00,USD
+2026-10,Food,Groceries,650.00,USD
+2026-10,Food,Dining out,220.00,USD
+2026-10,Food,Coffee,40.00,USD
+2026-10,Transportation,Fuel,170.00,USD
+2026-10,Transportation,Public transit,75.00,USD
+2026-10,Transportation,Auto insurance,130.00,USD
+2026-10,Transportation,Maintenance,85.00,USD
+2026-10,Household,Supplies,90.00,USD
+2026-10,Household,Furniture,80.00,USD
+2026-10,Health,Pharmacy,35.00,USD
+2026-10,Health,Medical visits,80.00,USD
+2026-10,Health,Fitness,45.00,USD
+2026-10,Family,Childcare,480.00,USD
+2026-10,Family,School supplies,60.00,USD
+2026-10,Personal,Clothing,100.00,USD
+2026-10,Personal,Personal care,65.00,USD
+2026-10,Entertainment,Streaming,40.00,USD
+2026-10,Entertainment,Activities,100.00,USD
+2026-10,Giving,Charity,60.00,USD
+2026-10,Giving,Gifts,90.00,USD
+2026-10,Travel,Trips,250.00,USD

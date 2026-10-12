@@ -1,0 +1,7 @@
+record_kind,label,amount,currency,as_of,due_date,due_amount,wishlist_item,estimated_price,notes
+balance,Demo everyday cash,680.00,EUR,2026-10-11,,,,,Fictional snapshot; not transaction income
+balance,Demo reserve cash,1450.00,EUR,2026-10-11,,,,,Fictional snapshot; not a transaction
+liability,Demo card amount due,235.00,EUR,2026-10-11,2026-10-25,80.00,,,Fictional obligation; not paid expense
+due,Demo utility payment,63.00,EUR,2026-10-11,2026-10-20,63.00,,,Fictional planned payment; not paid expense
+wishlist,Demo study goal,,EUR,2026-10-11,,,Example course,180.00,Fictional wish; not a purchase
+wishlist,Demo travel goal,,INR,2026-10-11,,,Example day trip,4500.00,Fictional wish; not a transaction

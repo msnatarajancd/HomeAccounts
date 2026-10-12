@@ -1,0 +1,1 @@
+{"name":"homeaccounts-local","version":"2.0.0","private":true,"scripts":{"test:e2e":"playwright test","test:visual":"playwright test --grep visual"},"devDependencies":{"@playwright/test":"1.64.0"}}

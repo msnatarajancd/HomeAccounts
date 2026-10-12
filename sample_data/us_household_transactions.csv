@@ -1,0 +1,463 @@
+date,particulars,merchant,category,expense_amount,income_amount,currency,account,subcategory,monthly_budget,budget_period,payment_method
+2025-11-01,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2025-11-01,Fictional demo: Monthly fitness membership,Example Demo Fitness,Health,45.00,,USD,Demo household checking,Fitness,,,Demo debit
+2025-11-01,Fictional demo: Monthly apartment rent,Example Demo Apartments,Housing,2100.00,,USD,Demo household checking,Rent,,,Demo debit
+2025-11-02,Fictional demo: After-school care,Example Demo Learning Club,Family,480.00,,USD,Demo household checking,Childcare,,,Demo debit
+2025-11-02,Fictional demo: Monthly transit pass,Example Demo Transit,Transportation,72.00,,USD,Demo household checking,Public transit,,,Demo debit
+2025-11-03,Fictional demo: Home internet,Example Demo Broadband,Utilities,75.00,,USD,Demo household checking,Internet,,,Demo debit
+2025-11-04,"Fictional demo: Weekly groceries, shop 1",Maple Demo Market,Food,132.00,,USD,Demo household checking,Groceries,,,Demo debit
+2025-11-05,Fictional demo: Pharmacy essentials,Example Demo Pharmacy,Health,24.00,,USD,Demo household checking,Pharmacy,,,Demo debit
+2025-11-05,Fictional demo: Household mobile plan,Example Demo Wireless,Utilities,110.00,,USD,Demo household checking,Mobile phone,,,Demo debit
+2025-11-06,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,67.50,,USD,Demo household checking,Fuel,,,Demo debit
+2025-11-07,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2025-11-08,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,71.00,,USD,Demo household checking,Dining out,,,Demo debit
+2025-11-09,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,15.00,,USD,Demo household checking,Coffee,,,Demo debit
+2025-11-09,Fictional demo: Water bill,Example Demo Water,Utilities,39.00,,USD,Demo household checking,Water,,,Demo debit
+2025-11-10,Fictional demo: Music subscription,Example Demo Music,Entertainment,10.99,,USD,Demo household checking,Streaming,,,Demo debit
+2025-11-10,Fictional demo: Video subscription,Example Demo Video,Entertainment,19.99,,USD,Demo household checking,Streaming,,,Demo debit
+2025-11-11,"Fictional demo: Weekly groceries, shop 2",Maple Demo Market,Food,143.50,,USD,Demo household checking,Groceries,,,Demo debit
+2025-11-11,Fictional demo: Electricity bill,Example Demo Energy,Utilities,115.00,,USD,Demo household checking,Electricity,,,Demo debit
+2025-11-12,Fictional demo: Natural gas bill,Example Demo Energy,Utilities,95.00,,USD,Demo household checking,Natural gas,,,Demo debit
+2025-11-13,Fictional demo: Auto insurance payment,Example Demo Insurance,Transportation,128.00,,USD,Demo household checking,Auto insurance,,,Demo debit
+2025-11-14,Fictional demo: Cleaning and household supplies,Harbor Demo Supplies,Household,71.00,,USD,Demo household checking,Supplies,,,Demo debit
+2025-11-15,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2025-11-15,Fictional demo: Haircut and personal care,Example Demo Care,Personal,50.00,,USD,Demo household checking,Personal care,,,Demo debit
+2025-11-17,Fictional demo: Routine visit copay,Example Demo Clinic,Health,115.00,,USD,Demo household checking,Medical visits,,,Demo debit
+2025-11-18,Fictional demo: School supplies,Example Demo School Store,Family,28.00,,USD,Demo household checking,School supplies,,,Demo debit
+2025-11-18,"Fictional demo: Weekly groceries, shop 3",Maple Demo Market,Food,155.00,,USD,Demo household checking,Groceries,,,Demo debit
+2025-11-20,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,72.75,,USD,Demo household checking,Fuel,,,Demo debit
+2025-11-21,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2025-11-22,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,86.50,,USD,Demo household checking,Dining out,,,Demo debit
+2025-11-23,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,16.75,,USD,Demo household checking,Coffee,,,Demo debit
+2025-11-23,Fictional demo: Seasonal clothing,Example Demo Outfitters,Personal,220.00,,USD,Demo household checking,Clothing,,,Demo debit
+2025-11-24,Fictional demo: Gifts for family,Example Demo Gifts,Giving,47.00,,USD,Demo household checking,Gifts,,,Demo debit
+2025-11-24,Fictional demo: Weekend design project,Example Freelance Client,Other income,,200.00,USD,Demo household checking,Freelance,,,Demo transfer
+2025-11-25,"Fictional demo: Weekly groceries, shop 4",Maple Demo Market,Food,166.50,,USD,Demo household checking,Groceries,,,Demo debit
+2025-11-26,Fictional demo: Family activity,Example Demo Recreation,Entertainment,68.00,,USD,Demo household checking,Activities,,,Demo debit
+2025-11-27,Fictional demo: Community donation,Example Demo Community Fund,Giving,60.00,,USD,Demo household checking,Charity,,,Demo debit
+2025-11-28,Fictional demo: Interest received,Example Demo Bank,Other income,,8.50,USD,Demo household checking,Interest,,,Demo bank credit
+2025-12-01,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2025-12-01,Fictional demo: Monthly fitness membership,Example Demo Fitness,Health,45.00,,USD,Demo household checking,Fitness,,,Demo debit
+2025-12-01,Fictional demo: Monthly apartment rent,Example Demo Apartments,Housing,2100.00,,USD,Demo household checking,Rent,,,Demo debit
+2025-12-02,Fictional demo: After-school care,Example Demo Learning Club,Family,480.00,,USD,Demo household checking,Childcare,,,Demo debit
+2025-12-02,Fictional demo: Monthly transit pass,Example Demo Transit,Transportation,72.00,,USD,Demo household checking,Public transit,,,Demo debit
+2025-12-03,Fictional demo: Home internet,Example Demo Broadband,Utilities,75.00,,USD,Demo household checking,Internet,,,Demo debit
+2025-12-04,"Fictional demo: Weekly groceries, shop 1",Maple Demo Market,Food,143.50,,USD,Demo household checking,Groceries,,,Demo debit
+2025-12-05,Fictional demo: Pharmacy essentials,Example Demo Pharmacy,Health,26.00,,USD,Demo household checking,Pharmacy,,,Demo debit
+2025-12-05,Fictional demo: Household mobile plan,Example Demo Wireless,Utilities,110.00,,USD,Demo household checking,Mobile phone,,,Demo debit
+2025-12-06,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,72.75,,USD,Demo household checking,Fuel,,,Demo debit
+2025-12-07,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2025-12-08,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,86.50,,USD,Demo household checking,Dining out,,,Demo debit
+2025-12-09,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,16.75,,USD,Demo household checking,Coffee,,,Demo debit
+2025-12-09,Fictional demo: Water bill,Example Demo Water,Utilities,43.25,,USD,Demo household checking,Water,,,Demo debit
+2025-12-10,Fictional demo: Music subscription,Example Demo Music,Entertainment,10.99,,USD,Demo household checking,Streaming,,,Demo debit
+2025-12-10,Fictional demo: Video subscription,Example Demo Video,Entertainment,19.99,,USD,Demo household checking,Streaming,,,Demo debit
+2025-12-11,"Fictional demo: Weekly groceries, shop 2",Maple Demo Market,Food,155.00,,USD,Demo household checking,Groceries,,,Demo debit
+2025-12-11,Fictional demo: Electricity bill,Example Demo Energy,Utilities,123.25,,USD,Demo household checking,Electricity,,,Demo debit
+2025-12-12,Fictional demo: Natural gas bill,Example Demo Energy,Utilities,95.00,,USD,Demo household checking,Natural gas,,,Demo debit
+2025-12-13,Fictional demo: Auto insurance payment,Example Demo Insurance,Transportation,128.00,,USD,Demo household checking,Auto insurance,,,Demo debit
+2025-12-14,Fictional demo: Cleaning and household supplies,Harbor Demo Supplies,Household,78.00,,USD,Demo household checking,Supplies,,,Demo debit
+2025-12-14,Fictional demo: Fictional family trip lodging and transport,Example Demo Travel,Travel,1100.00,,USD,Demo household checking,Trips,,,Demo debit
+2025-12-15,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2025-12-15,Fictional demo: Haircut and personal care,Example Demo Care,Personal,54.50,,USD,Demo household checking,Personal care,,,Demo debit
+2025-12-17,Fictional demo: Routine visit copay,Example Demo Clinic,Health,65.00,,USD,Demo household checking,Medical visits,,,Demo debit
+2025-12-18,Fictional demo: School supplies,Example Demo School Store,Family,32.00,,USD,Demo household checking,School supplies,,,Demo debit
+2025-12-18,"Fictional demo: Weekly groceries, shop 3",Maple Demo Market,Food,166.50,,USD,Demo household checking,Groceries,,,Demo debit
+2025-12-20,Fictional demo: Quarterly performance bonus,Example Studio Employer,Employment,,450.00,USD,Demo household checking,Bonus,,,Demo direct deposit
+2025-12-20,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,78.00,,USD,Demo household checking,Fuel,,,Demo debit
+2025-12-21,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2025-12-22,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,102.00,,USD,Demo household checking,Dining out,,,Demo debit
+2025-12-23,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,18.50,,USD,Demo household checking,Coffee,,,Demo debit
+2025-12-23,Fictional demo: Seasonal clothing,Example Demo Outfitters,Personal,78.00,,USD,Demo household checking,Clothing,,,Demo debit
+2025-12-24,Fictional demo: Gifts for family,Example Demo Gifts,Giving,285.00,,USD,Demo household checking,Gifts,,,Demo debit
+2025-12-24,Fictional demo: Weekend design project,Example Freelance Client,Other income,,275.00,USD,Demo household checking,Freelance,,,Demo transfer
+2025-12-25,"Fictional demo: Weekly groceries, shop 4",Maple Demo Market,Food,178.00,,USD,Demo household checking,Groceries,,,Demo debit
+2025-12-26,Fictional demo: Family activity,Example Demo Recreation,Entertainment,80.00,,USD,Demo household checking,Activities,,,Demo debit
+2025-12-27,Fictional demo: Community donation,Example Demo Community Fund,Giving,60.00,,USD,Demo household checking,Charity,,,Demo debit
+2025-12-28,Fictional demo: Interest received,Example Demo Bank,Other income,,8.85,USD,Demo household checking,Interest,,,Demo bank credit
+2026-01-01,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-01-01,Fictional demo: Monthly fitness membership,Example Demo Fitness,Health,45.00,,USD,Demo household checking,Fitness,,,Demo debit
+2026-01-01,Fictional demo: Monthly apartment rent,Example Demo Apartments,Housing,2100.00,,USD,Demo household checking,Rent,,,Demo debit
+2026-01-02,Fictional demo: After-school care,Example Demo Learning Club,Family,480.00,,USD,Demo household checking,Childcare,,,Demo debit
+2026-01-02,Fictional demo: Monthly transit pass,Example Demo Transit,Transportation,72.00,,USD,Demo household checking,Public transit,,,Demo debit
+2026-01-03,Fictional demo: Home internet,Example Demo Broadband,Utilities,75.00,,USD,Demo household checking,Internet,,,Demo debit
+2026-01-04,"Fictional demo: Weekly groceries, shop 1",Maple Demo Market,Food,155.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-01-05,Fictional demo: Pharmacy essentials,Example Demo Pharmacy,Health,28.00,,USD,Demo household checking,Pharmacy,,,Demo debit
+2026-01-05,Fictional demo: Household mobile plan,Example Demo Wireless,Utilities,110.00,,USD,Demo household checking,Mobile phone,,,Demo debit
+2026-01-06,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,78.00,,USD,Demo household checking,Fuel,,,Demo debit
+2026-01-07,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-01-08,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,102.00,,USD,Demo household checking,Dining out,,,Demo debit
+2026-01-09,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,18.50,,USD,Demo household checking,Coffee,,,Demo debit
+2026-01-09,Fictional demo: Water bill,Example Demo Water,Utilities,47.50,,USD,Demo household checking,Water,,,Demo debit
+2026-01-10,Fictional demo: Music subscription,Example Demo Music,Entertainment,10.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-01-10,Fictional demo: Video subscription,Example Demo Video,Entertainment,19.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-01-11,"Fictional demo: Weekly groceries, shop 2",Maple Demo Market,Food,166.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-01-11,Fictional demo: Electricity bill,Example Demo Energy,Utilities,131.50,,USD,Demo household checking,Electricity,,,Demo debit
+2026-01-12,Fictional demo: Natural gas bill,Example Demo Energy,Utilities,95.00,,USD,Demo household checking,Natural gas,,,Demo debit
+2026-01-13,Fictional demo: Auto insurance payment,Example Demo Insurance,Transportation,128.00,,USD,Demo household checking,Auto insurance,,,Demo debit
+2026-01-14,Fictional demo: Cleaning and household supplies,Harbor Demo Supplies,Household,85.00,,USD,Demo household checking,Supplies,,,Demo debit
+2026-01-15,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-01-15,Fictional demo: Haircut and personal care,Example Demo Care,Personal,59.00,,USD,Demo household checking,Personal care,,,Demo debit
+2026-01-16,Fictional demo: Vehicle service,Cedar Demo Garage,Transportation,410.00,,USD,Demo household checking,Maintenance,,,Demo debit
+2026-01-17,Fictional demo: Routine visit copay,Example Demo Clinic,Health,65.00,,USD,Demo household checking,Medical visits,,,Demo debit
+2026-01-18,Fictional demo: School supplies,Example Demo School Store,Family,36.00,,USD,Demo household checking,School supplies,,,Demo debit
+2026-01-18,"Fictional demo: Weekly groceries, shop 3",Maple Demo Market,Food,178.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-01-20,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,83.25,,USD,Demo household checking,Fuel,,,Demo debit
+2026-01-21,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-01-22,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,117.50,,USD,Demo household checking,Dining out,,,Demo debit
+2026-01-23,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,20.25,,USD,Demo household checking,Coffee,,,Demo debit
+2026-01-23,Fictional demo: Seasonal clothing,Example Demo Outfitters,Personal,88.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-01-24,Fictional demo: Gifts for family,Example Demo Gifts,Giving,65.00,,USD,Demo household checking,Gifts,,,Demo debit
+2026-01-24,Fictional demo: Weekend design project,Example Freelance Client,Other income,,350.00,USD,Demo household checking,Freelance,,,Demo transfer
+2026-01-25,"Fictional demo: Weekly groceries, shop 4",Maple Demo Market,Food,132.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-01-26,Fictional demo: Family activity,Example Demo Recreation,Entertainment,92.00,,USD,Demo household checking,Activities,,,Demo debit
+2026-01-27,Fictional demo: Community donation,Example Demo Community Fund,Giving,60.00,,USD,Demo household checking,Charity,,,Demo debit
+2026-01-28,Fictional demo: Interest received,Example Demo Bank,Other income,,9.20,USD,Demo household checking,Interest,,,Demo bank credit
+2026-02-01,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-02-01,Fictional demo: Monthly fitness membership,Example Demo Fitness,Health,45.00,,USD,Demo household checking,Fitness,,,Demo debit
+2026-02-01,Fictional demo: Monthly apartment rent,Example Demo Apartments,Housing,2100.00,,USD,Demo household checking,Rent,,,Demo debit
+2026-02-02,Fictional demo: After-school care,Example Demo Learning Club,Family,480.00,,USD,Demo household checking,Childcare,,,Demo debit
+2026-02-02,Fictional demo: Monthly transit pass,Example Demo Transit,Transportation,72.00,,USD,Demo household checking,Public transit,,,Demo debit
+2026-02-03,Fictional demo: Home internet,Example Demo Broadband,Utilities,75.00,,USD,Demo household checking,Internet,,,Demo debit
+2026-02-04,"Fictional demo: Weekly groceries, shop 1",Maple Demo Market,Food,166.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-02-05,Fictional demo: Pharmacy essentials,Example Demo Pharmacy,Health,30.00,,USD,Demo household checking,Pharmacy,,,Demo debit
+2026-02-05,Fictional demo: Household mobile plan,Example Demo Wireless,Utilities,110.00,,USD,Demo household checking,Mobile phone,,,Demo debit
+2026-02-06,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,83.25,,USD,Demo household checking,Fuel,,,Demo debit
+2026-02-07,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-02-08,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,117.50,,USD,Demo household checking,Dining out,,,Demo debit
+2026-02-09,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,20.25,,USD,Demo household checking,Coffee,,,Demo debit
+2026-02-09,Fictional demo: Water bill,Example Demo Water,Utilities,51.75,,USD,Demo household checking,Water,,,Demo debit
+2026-02-10,Fictional demo: Music subscription,Example Demo Music,Entertainment,10.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-02-10,Fictional demo: Video subscription,Example Demo Video,Entertainment,19.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-02-11,"Fictional demo: Weekly groceries, shop 2",Maple Demo Market,Food,178.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-02-11,Fictional demo: Electricity bill,Example Demo Energy,Utilities,115.00,,USD,Demo household checking,Electricity,,,Demo debit
+2026-02-12,Fictional demo: Natural gas bill,Example Demo Energy,Utilities,95.00,,USD,Demo household checking,Natural gas,,,Demo debit
+2026-02-13,Fictional demo: Auto insurance payment,Example Demo Insurance,Transportation,128.00,,USD,Demo household checking,Auto insurance,,,Demo debit
+2026-02-14,Fictional demo: Cleaning and household supplies,Harbor Demo Supplies,Household,92.00,,USD,Demo household checking,Supplies,,,Demo debit
+2026-02-15,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-02-15,Fictional demo: Haircut and personal care,Example Demo Care,Personal,63.50,,USD,Demo household checking,Personal care,,,Demo debit
+2026-02-17,Fictional demo: Routine visit copay,Example Demo Clinic,Health,115.00,,USD,Demo household checking,Medical visits,,,Demo debit
+2026-02-18,Fictional demo: School supplies,Example Demo School Store,Family,40.00,,USD,Demo household checking,School supplies,,,Demo debit
+2026-02-18,"Fictional demo: Weekly groceries, shop 3",Maple Demo Market,Food,132.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-02-19,Fictional demo: Home furnishing purchase,Example Demo Home,Household,185.00,,USD,Demo household checking,Furniture,,,Demo debit
+2026-02-20,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,88.50,,USD,Demo household checking,Fuel,,,Demo debit
+2026-02-21,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-02-22,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,133.00,,USD,Demo household checking,Dining out,,,Demo debit
+2026-02-23,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,22.00,,USD,Demo household checking,Coffee,,,Demo debit
+2026-02-23,Fictional demo: Seasonal clothing,Example Demo Outfitters,Personal,98.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-02-24,Fictional demo: Gifts for family,Example Demo Gifts,Giving,74.00,,USD,Demo household checking,Gifts,,,Demo debit
+2026-02-24,Fictional demo: Weekend design project,Example Freelance Client,Other income,,425.00,USD,Demo household checking,Freelance,,,Demo transfer
+2026-02-25,"Fictional demo: Weekly groceries, shop 4",Maple Demo Market,Food,143.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-02-26,Fictional demo: Family activity,Example Demo Recreation,Entertainment,104.00,,USD,Demo household checking,Activities,,,Demo debit
+2026-02-27,Fictional demo: Community donation,Example Demo Community Fund,Giving,60.00,,USD,Demo household checking,Charity,,,Demo debit
+2026-02-27,Fictional demo: Clothing return refund,Example Demo Outfitters,Personal,-32.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-02-28,Fictional demo: Interest received,Example Demo Bank,Other income,,9.55,USD,Demo household checking,Interest,,,Demo bank credit
+2026-03-01,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-03-01,Fictional demo: Monthly fitness membership,Example Demo Fitness,Health,45.00,,USD,Demo household checking,Fitness,,,Demo debit
+2026-03-01,Fictional demo: Monthly apartment rent,Example Demo Apartments,Housing,2100.00,,USD,Demo household checking,Rent,,,Demo debit
+2026-03-02,Fictional demo: After-school care,Example Demo Learning Club,Family,480.00,,USD,Demo household checking,Childcare,,,Demo debit
+2026-03-02,Fictional demo: Monthly transit pass,Example Demo Transit,Transportation,72.00,,USD,Demo household checking,Public transit,,,Demo debit
+2026-03-03,Fictional demo: Home internet,Example Demo Broadband,Utilities,75.00,,USD,Demo household checking,Internet,,,Demo debit
+2026-03-04,"Fictional demo: Weekly groceries, shop 1",Maple Demo Market,Food,178.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-03-05,Fictional demo: Pharmacy essentials,Example Demo Pharmacy,Health,32.00,,USD,Demo household checking,Pharmacy,,,Demo debit
+2026-03-05,Fictional demo: Household mobile plan,Example Demo Wireless,Utilities,110.00,,USD,Demo household checking,Mobile phone,,,Demo debit
+2026-03-06,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,88.50,,USD,Demo household checking,Fuel,,,Demo debit
+2026-03-07,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-03-08,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,133.00,,USD,Demo household checking,Dining out,,,Demo debit
+2026-03-09,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,22.00,,USD,Demo household checking,Coffee,,,Demo debit
+2026-03-09,Fictional demo: Water bill,Example Demo Water,Utilities,39.00,,USD,Demo household checking,Water,,,Demo debit
+2026-03-10,Fictional demo: Music subscription,Example Demo Music,Entertainment,10.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-03-10,Fictional demo: Video subscription,Example Demo Video,Entertainment,19.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-03-11,"Fictional demo: Weekly groceries, shop 2",Maple Demo Market,Food,132.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-03-11,Fictional demo: Electricity bill,Example Demo Energy,Utilities,123.25,,USD,Demo household checking,Electricity,,,Demo debit
+2026-03-12,Fictional demo: Natural gas bill,Example Demo Energy,Utilities,35.00,,USD,Demo household checking,Natural gas,,,Demo debit
+2026-03-13,Fictional demo: Auto insurance payment,Example Demo Insurance,Transportation,128.00,,USD,Demo household checking,Auto insurance,,,Demo debit
+2026-03-14,Fictional demo: Cleaning and household supplies,Harbor Demo Supplies,Household,99.00,,USD,Demo household checking,Supplies,,,Demo debit
+2026-03-15,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-03-15,Fictional demo: Haircut and personal care,Example Demo Care,Personal,68.00,,USD,Demo household checking,Personal care,,,Demo debit
+2026-03-17,Fictional demo: Routine visit copay,Example Demo Clinic,Health,65.00,,USD,Demo household checking,Medical visits,,,Demo debit
+2026-03-18,Fictional demo: School supplies,Example Demo School Store,Family,44.00,,USD,Demo household checking,School supplies,,,Demo debit
+2026-03-18,"Fictional demo: Weekly groceries, shop 3",Maple Demo Market,Food,143.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-03-20,Fictional demo: Quarterly performance bonus,Example Studio Employer,Employment,,450.00,USD,Demo household checking,Bonus,,,Demo direct deposit
+2026-03-20,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,67.50,,USD,Demo household checking,Fuel,,,Demo debit
+2026-03-21,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-03-22,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,71.00,,USD,Demo household checking,Dining out,,,Demo debit
+2026-03-23,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,15.00,,USD,Demo household checking,Coffee,,,Demo debit
+2026-03-23,Fictional demo: Seasonal clothing,Example Demo Outfitters,Personal,108.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-03-24,Fictional demo: Gifts for family,Example Demo Gifts,Giving,83.00,,USD,Demo household checking,Gifts,,,Demo debit
+2026-03-24,Fictional demo: Weekend design project,Example Freelance Client,Other income,,200.00,USD,Demo household checking,Freelance,,,Demo transfer
+2026-03-25,"Fictional demo: Weekly groceries, shop 4",Maple Demo Market,Food,155.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-03-26,Fictional demo: Family activity,Example Demo Recreation,Entertainment,116.00,,USD,Demo household checking,Activities,,,Demo debit
+2026-03-27,Fictional demo: Community donation,Example Demo Community Fund,Giving,60.00,,USD,Demo household checking,Charity,,,Demo debit
+2026-03-28,Fictional demo: Interest received,Example Demo Bank,Other income,,9.90,USD,Demo household checking,Interest,,,Demo bank credit
+2026-04-01,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-04-01,Fictional demo: Monthly fitness membership,Example Demo Fitness,Health,45.00,,USD,Demo household checking,Fitness,,,Demo debit
+2026-04-01,Fictional demo: Monthly apartment rent,Example Demo Apartments,Housing,2100.00,,USD,Demo household checking,Rent,,,Demo debit
+2026-04-02,Fictional demo: After-school care,Example Demo Learning Club,Family,480.00,,USD,Demo household checking,Childcare,,,Demo debit
+2026-04-02,Fictional demo: Monthly transit pass,Example Demo Transit,Transportation,72.00,,USD,Demo household checking,Public transit,,,Demo debit
+2026-04-03,Fictional demo: Home internet,Example Demo Broadband,Utilities,75.00,,USD,Demo household checking,Internet,,,Demo debit
+2026-04-04,"Fictional demo: Weekly groceries, shop 1",Maple Demo Market,Food,132.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-04-05,Fictional demo: Pharmacy essentials,Example Demo Pharmacy,Health,24.00,,USD,Demo household checking,Pharmacy,,,Demo debit
+2026-04-05,Fictional demo: Household mobile plan,Example Demo Wireless,Utilities,110.00,,USD,Demo household checking,Mobile phone,,,Demo debit
+2026-04-06,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,67.50,,USD,Demo household checking,Fuel,,,Demo debit
+2026-04-07,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-04-08,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,71.00,,USD,Demo household checking,Dining out,,,Demo debit
+2026-04-09,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,15.00,,USD,Demo household checking,Coffee,,,Demo debit
+2026-04-09,Fictional demo: Water bill,Example Demo Water,Utilities,43.25,,USD,Demo household checking,Water,,,Demo debit
+2026-04-10,Fictional demo: Music subscription,Example Demo Music,Entertainment,10.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-04-10,Fictional demo: Video subscription,Example Demo Video,Entertainment,19.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-04-11,"Fictional demo: Weekly groceries, shop 2",Maple Demo Market,Food,143.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-04-11,Fictional demo: Electricity bill,Example Demo Energy,Utilities,131.50,,USD,Demo household checking,Electricity,,,Demo debit
+2026-04-12,Fictional demo: Natural gas bill,Example Demo Energy,Utilities,35.00,,USD,Demo household checking,Natural gas,,,Demo debit
+2026-04-13,Fictional demo: Auto insurance payment,Example Demo Insurance,Transportation,128.00,,USD,Demo household checking,Auto insurance,,,Demo debit
+2026-04-14,Fictional demo: Cleaning and household supplies,Harbor Demo Supplies,Household,71.00,,USD,Demo household checking,Supplies,,,Demo debit
+2026-04-15,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-04-15,Fictional demo: Haircut and personal care,Example Demo Care,Personal,50.00,,USD,Demo household checking,Personal care,,,Demo debit
+2026-04-16,Fictional demo: Vehicle service,Cedar Demo Garage,Transportation,410.00,,USD,Demo household checking,Maintenance,,,Demo debit
+2026-04-17,Fictional demo: Routine visit copay,Example Demo Clinic,Health,65.00,,USD,Demo household checking,Medical visits,,,Demo debit
+2026-04-17,Fictional demo: Annual refund received,Fictional Refund Source,Other income,,680.00,USD,Demo household checking,Refund,,,Demo transfer
+2026-04-18,Fictional demo: School supplies,Example Demo School Store,Family,28.00,,USD,Demo household checking,School supplies,,,Demo debit
+2026-04-18,"Fictional demo: Weekly groceries, shop 3",Maple Demo Market,Food,155.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-04-20,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,72.75,,USD,Demo household checking,Fuel,,,Demo debit
+2026-04-21,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-04-22,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,86.50,,USD,Demo household checking,Dining out,,,Demo debit
+2026-04-23,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,16.75,,USD,Demo household checking,Coffee,,,Demo debit
+2026-04-23,Fictional demo: Seasonal clothing,Example Demo Outfitters,Personal,68.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-04-24,Fictional demo: Gifts for family,Example Demo Gifts,Giving,47.00,,USD,Demo household checking,Gifts,,,Demo debit
+2026-04-24,Fictional demo: Weekend design project,Example Freelance Client,Other income,,275.00,USD,Demo household checking,Freelance,,,Demo transfer
+2026-04-25,"Fictional demo: Weekly groceries, shop 4",Maple Demo Market,Food,166.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-04-26,Fictional demo: Family activity,Example Demo Recreation,Entertainment,68.00,,USD,Demo household checking,Activities,,,Demo debit
+2026-04-27,Fictional demo: Community donation,Example Demo Community Fund,Giving,60.00,,USD,Demo household checking,Charity,,,Demo debit
+2026-04-28,Fictional demo: Interest received,Example Demo Bank,Other income,,10.25,USD,Demo household checking,Interest,,,Demo bank credit
+2026-05-01,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-05-01,Fictional demo: Monthly fitness membership,Example Demo Fitness,Health,45.00,,USD,Demo household checking,Fitness,,,Demo debit
+2026-05-01,Fictional demo: Monthly apartment rent,Example Demo Apartments,Housing,2100.00,,USD,Demo household checking,Rent,,,Demo debit
+2026-05-02,Fictional demo: After-school care,Example Demo Learning Club,Family,480.00,,USD,Demo household checking,Childcare,,,Demo debit
+2026-05-02,Fictional demo: Monthly transit pass,Example Demo Transit,Transportation,72.00,,USD,Demo household checking,Public transit,,,Demo debit
+2026-05-03,Fictional demo: Home internet,Example Demo Broadband,Utilities,75.00,,USD,Demo household checking,Internet,,,Demo debit
+2026-05-04,"Fictional demo: Weekly groceries, shop 1",Maple Demo Market,Food,143.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-05-05,Fictional demo: Pharmacy essentials,Example Demo Pharmacy,Health,26.00,,USD,Demo household checking,Pharmacy,,,Demo debit
+2026-05-05,Fictional demo: Household mobile plan,Example Demo Wireless,Utilities,110.00,,USD,Demo household checking,Mobile phone,,,Demo debit
+2026-05-06,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,72.75,,USD,Demo household checking,Fuel,,,Demo debit
+2026-05-07,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-05-08,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,86.50,,USD,Demo household checking,Dining out,,,Demo debit
+2026-05-09,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,16.75,,USD,Demo household checking,Coffee,,,Demo debit
+2026-05-09,Fictional demo: Water bill,Example Demo Water,Utilities,47.50,,USD,Demo household checking,Water,,,Demo debit
+2026-05-10,Fictional demo: Music subscription,Example Demo Music,Entertainment,10.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-05-10,Fictional demo: Video subscription,Example Demo Video,Entertainment,19.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-05-11,"Fictional demo: Weekly groceries, shop 2",Maple Demo Market,Food,155.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-05-11,Fictional demo: Electricity bill,Example Demo Energy,Utilities,115.00,,USD,Demo household checking,Electricity,,,Demo debit
+2026-05-12,Fictional demo: Natural gas bill,Example Demo Energy,Utilities,35.00,,USD,Demo household checking,Natural gas,,,Demo debit
+2026-05-13,Fictional demo: Auto insurance payment,Example Demo Insurance,Transportation,128.00,,USD,Demo household checking,Auto insurance,,,Demo debit
+2026-05-14,Fictional demo: Cleaning and household supplies,Harbor Demo Supplies,Household,78.00,,USD,Demo household checking,Supplies,,,Demo debit
+2026-05-15,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-05-15,Fictional demo: Haircut and personal care,Example Demo Care,Personal,54.50,,USD,Demo household checking,Personal care,,,Demo debit
+2026-05-17,Fictional demo: Routine visit copay,Example Demo Clinic,Health,115.00,,USD,Demo household checking,Medical visits,,,Demo debit
+2026-05-18,Fictional demo: School supplies,Example Demo School Store,Family,32.00,,USD,Demo household checking,School supplies,,,Demo debit
+2026-05-18,"Fictional demo: Weekly groceries, shop 3",Maple Demo Market,Food,166.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-05-20,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,78.00,,USD,Demo household checking,Fuel,,,Demo debit
+2026-05-21,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-05-22,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,102.00,,USD,Demo household checking,Dining out,,,Demo debit
+2026-05-23,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,18.50,,USD,Demo household checking,Coffee,,,Demo debit
+2026-05-23,Fictional demo: Seasonal clothing,Example Demo Outfitters,Personal,78.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-05-24,Fictional demo: Gifts for family,Example Demo Gifts,Giving,56.00,,USD,Demo household checking,Gifts,,,Demo debit
+2026-05-24,Fictional demo: Weekend design project,Example Freelance Client,Other income,,350.00,USD,Demo household checking,Freelance,,,Demo transfer
+2026-05-25,"Fictional demo: Weekly groceries, shop 4",Maple Demo Market,Food,178.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-05-26,Fictional demo: Family activity,Example Demo Recreation,Entertainment,80.00,,USD,Demo household checking,Activities,,,Demo debit
+2026-05-27,Fictional demo: Community donation,Example Demo Community Fund,Giving,60.00,,USD,Demo household checking,Charity,,,Demo debit
+2026-05-27,Fictional demo: Clothing return refund,Example Demo Outfitters,Personal,-32.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-05-28,Fictional demo: Interest received,Example Demo Bank,Other income,,10.60,USD,Demo household checking,Interest,,,Demo bank credit
+2026-06-01,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-06-01,Fictional demo: Monthly fitness membership,Example Demo Fitness,Health,45.00,,USD,Demo household checking,Fitness,,,Demo debit
+2026-06-01,Fictional demo: Monthly apartment rent,Example Demo Apartments,Housing,2100.00,,USD,Demo household checking,Rent,,,Demo debit
+2026-06-02,Fictional demo: After-school care,Example Demo Learning Club,Family,480.00,,USD,Demo household checking,Childcare,,,Demo debit
+2026-06-02,Fictional demo: Monthly transit pass,Example Demo Transit,Transportation,72.00,,USD,Demo household checking,Public transit,,,Demo debit
+2026-06-03,Fictional demo: Home internet,Example Demo Broadband,Utilities,75.00,,USD,Demo household checking,Internet,,,Demo debit
+2026-06-04,"Fictional demo: Weekly groceries, shop 1",Maple Demo Market,Food,155.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-06-05,Fictional demo: Pharmacy essentials,Example Demo Pharmacy,Health,28.00,,USD,Demo household checking,Pharmacy,,,Demo debit
+2026-06-05,Fictional demo: Household mobile plan,Example Demo Wireless,Utilities,110.00,,USD,Demo household checking,Mobile phone,,,Demo debit
+2026-06-06,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,78.00,,USD,Demo household checking,Fuel,,,Demo debit
+2026-06-07,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-06-08,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,102.00,,USD,Demo household checking,Dining out,,,Demo debit
+2026-06-09,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,18.50,,USD,Demo household checking,Coffee,,,Demo debit
+2026-06-09,Fictional demo: Water bill,Example Demo Water,Utilities,51.75,,USD,Demo household checking,Water,,,Demo debit
+2026-06-10,Fictional demo: Music subscription,Example Demo Music,Entertainment,10.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-06-10,Fictional demo: Video subscription,Example Demo Video,Entertainment,19.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-06-11,"Fictional demo: Weekly groceries, shop 2",Maple Demo Market,Food,166.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-06-11,Fictional demo: Electricity bill,Example Demo Energy,Utilities,188.25,,USD,Demo household checking,Electricity,,,Demo debit
+2026-06-12,Fictional demo: Natural gas bill,Example Demo Energy,Utilities,35.00,,USD,Demo household checking,Natural gas,,,Demo debit
+2026-06-13,Fictional demo: Auto insurance payment,Example Demo Insurance,Transportation,128.00,,USD,Demo household checking,Auto insurance,,,Demo debit
+2026-06-14,Fictional demo: Cleaning and household supplies,Harbor Demo Supplies,Household,85.00,,USD,Demo household checking,Supplies,,,Demo debit
+2026-06-15,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-06-15,Fictional demo: Haircut and personal care,Example Demo Care,Personal,59.00,,USD,Demo household checking,Personal care,,,Demo debit
+2026-06-17,Fictional demo: Routine visit copay,Example Demo Clinic,Health,65.00,,USD,Demo household checking,Medical visits,,,Demo debit
+2026-06-18,Fictional demo: School supplies,Example Demo School Store,Family,36.00,,USD,Demo household checking,School supplies,,,Demo debit
+2026-06-18,"Fictional demo: Weekly groceries, shop 3",Maple Demo Market,Food,178.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-06-19,Fictional demo: Home furnishing purchase,Example Demo Home,Household,255.00,,USD,Demo household checking,Furniture,,,Demo debit
+2026-06-20,Fictional demo: Quarterly performance bonus,Example Studio Employer,Employment,,450.00,USD,Demo household checking,Bonus,,,Demo direct deposit
+2026-06-20,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,83.25,,USD,Demo household checking,Fuel,,,Demo debit
+2026-06-21,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-06-22,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,117.50,,USD,Demo household checking,Dining out,,,Demo debit
+2026-06-23,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,20.25,,USD,Demo household checking,Coffee,,,Demo debit
+2026-06-23,Fictional demo: Seasonal clothing,Example Demo Outfitters,Personal,88.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-06-24,Fictional demo: Gifts for family,Example Demo Gifts,Giving,65.00,,USD,Demo household checking,Gifts,,,Demo debit
+2026-06-24,Fictional demo: Weekend design project,Example Freelance Client,Other income,,425.00,USD,Demo household checking,Freelance,,,Demo transfer
+2026-06-25,"Fictional demo: Weekly groceries, shop 4",Maple Demo Market,Food,132.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-06-26,Fictional demo: Family activity,Example Demo Recreation,Entertainment,92.00,,USD,Demo household checking,Activities,,,Demo debit
+2026-06-27,Fictional demo: Community donation,Example Demo Community Fund,Giving,60.00,,USD,Demo household checking,Charity,,,Demo debit
+2026-06-28,Fictional demo: Interest received,Example Demo Bank,Other income,,10.95,USD,Demo household checking,Interest,,,Demo bank credit
+2026-07-01,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-07-01,Fictional demo: Monthly fitness membership,Example Demo Fitness,Health,45.00,,USD,Demo household checking,Fitness,,,Demo debit
+2026-07-01,Fictional demo: Monthly apartment rent,Example Demo Apartments,Housing,2100.00,,USD,Demo household checking,Rent,,,Demo debit
+2026-07-02,Fictional demo: After-school care,Example Demo Learning Club,Family,480.00,,USD,Demo household checking,Childcare,,,Demo debit
+2026-07-02,Fictional demo: Monthly transit pass,Example Demo Transit,Transportation,72.00,,USD,Demo household checking,Public transit,,,Demo debit
+2026-07-03,Fictional demo: Home internet,Example Demo Broadband,Utilities,75.00,,USD,Demo household checking,Internet,,,Demo debit
+2026-07-04,"Fictional demo: Weekly groceries, shop 1",Maple Demo Market,Food,166.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-07-05,Fictional demo: Pharmacy essentials,Example Demo Pharmacy,Health,30.00,,USD,Demo household checking,Pharmacy,,,Demo debit
+2026-07-05,Fictional demo: Household mobile plan,Example Demo Wireless,Utilities,110.00,,USD,Demo household checking,Mobile phone,,,Demo debit
+2026-07-06,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,83.25,,USD,Demo household checking,Fuel,,,Demo debit
+2026-07-07,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-07-08,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,117.50,,USD,Demo household checking,Dining out,,,Demo debit
+2026-07-09,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,20.25,,USD,Demo household checking,Coffee,,,Demo debit
+2026-07-09,Fictional demo: Water bill,Example Demo Water,Utilities,39.00,,USD,Demo household checking,Water,,,Demo debit
+2026-07-10,Fictional demo: Music subscription,Example Demo Music,Entertainment,10.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-07-10,Fictional demo: Video subscription,Example Demo Video,Entertainment,19.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-07-11,"Fictional demo: Weekly groceries, shop 2",Maple Demo Market,Food,178.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-07-11,Fictional demo: Electricity bill,Example Demo Energy,Utilities,196.50,,USD,Demo household checking,Electricity,,,Demo debit
+2026-07-12,Fictional demo: Natural gas bill,Example Demo Energy,Utilities,35.00,,USD,Demo household checking,Natural gas,,,Demo debit
+2026-07-13,Fictional demo: Auto insurance payment,Example Demo Insurance,Transportation,128.00,,USD,Demo household checking,Auto insurance,,,Demo debit
+2026-07-14,Fictional demo: Cleaning and household supplies,Harbor Demo Supplies,Household,92.00,,USD,Demo household checking,Supplies,,,Demo debit
+2026-07-14,Fictional demo: Fictional family trip lodging and transport,Example Demo Travel,Travel,1850.00,,USD,Demo household checking,Trips,,,Demo debit
+2026-07-15,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-07-15,Fictional demo: Haircut and personal care,Example Demo Care,Personal,63.50,,USD,Demo household checking,Personal care,,,Demo debit
+2026-07-16,Fictional demo: Vehicle service,Cedar Demo Garage,Transportation,410.00,,USD,Demo household checking,Maintenance,,,Demo debit
+2026-07-17,Fictional demo: Routine visit copay,Example Demo Clinic,Health,65.00,,USD,Demo household checking,Medical visits,,,Demo debit
+2026-07-18,Fictional demo: School supplies,Example Demo School Store,Family,40.00,,USD,Demo household checking,School supplies,,,Demo debit
+2026-07-18,"Fictional demo: Weekly groceries, shop 3",Maple Demo Market,Food,132.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-07-20,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,88.50,,USD,Demo household checking,Fuel,,,Demo debit
+2026-07-21,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-07-22,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,133.00,,USD,Demo household checking,Dining out,,,Demo debit
+2026-07-23,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,22.00,,USD,Demo household checking,Coffee,,,Demo debit
+2026-07-23,Fictional demo: Seasonal clothing,Example Demo Outfitters,Personal,98.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-07-24,Fictional demo: Gifts for family,Example Demo Gifts,Giving,74.00,,USD,Demo household checking,Gifts,,,Demo debit
+2026-07-24,Fictional demo: Weekend design project,Example Freelance Client,Other income,,200.00,USD,Demo household checking,Freelance,,,Demo transfer
+2026-07-25,"Fictional demo: Weekly groceries, shop 4",Maple Demo Market,Food,143.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-07-26,Fictional demo: Family activity,Example Demo Recreation,Entertainment,104.00,,USD,Demo household checking,Activities,,,Demo debit
+2026-07-27,Fictional demo: Community donation,Example Demo Community Fund,Giving,60.00,,USD,Demo household checking,Charity,,,Demo debit
+2026-07-28,Fictional demo: Interest received,Example Demo Bank,Other income,,11.30,USD,Demo household checking,Interest,,,Demo bank credit
+2026-08-01,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-08-01,Fictional demo: Monthly fitness membership,Example Demo Fitness,Health,45.00,,USD,Demo household checking,Fitness,,,Demo debit
+2026-08-01,Fictional demo: Monthly apartment rent,Example Demo Apartments,Housing,2100.00,,USD,Demo household checking,Rent,,,Demo debit
+2026-08-02,Fictional demo: After-school care,Example Demo Learning Club,Family,480.00,,USD,Demo household checking,Childcare,,,Demo debit
+2026-08-02,Fictional demo: Monthly transit pass,Example Demo Transit,Transportation,72.00,,USD,Demo household checking,Public transit,,,Demo debit
+2026-08-03,Fictional demo: Home internet,Example Demo Broadband,Utilities,75.00,,USD,Demo household checking,Internet,,,Demo debit
+2026-08-04,"Fictional demo: Weekly groceries, shop 1",Maple Demo Market,Food,178.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-08-05,Fictional demo: Pharmacy essentials,Example Demo Pharmacy,Health,32.00,,USD,Demo household checking,Pharmacy,,,Demo debit
+2026-08-05,Fictional demo: Household mobile plan,Example Demo Wireless,Utilities,110.00,,USD,Demo household checking,Mobile phone,,,Demo debit
+2026-08-06,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,88.50,,USD,Demo household checking,Fuel,,,Demo debit
+2026-08-07,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-08-08,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,133.00,,USD,Demo household checking,Dining out,,,Demo debit
+2026-08-09,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,22.00,,USD,Demo household checking,Coffee,,,Demo debit
+2026-08-09,Fictional demo: Water bill,Example Demo Water,Utilities,43.25,,USD,Demo household checking,Water,,,Demo debit
+2026-08-10,Fictional demo: Music subscription,Example Demo Music,Entertainment,10.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-08-10,Fictional demo: Video subscription,Example Demo Video,Entertainment,19.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-08-11,"Fictional demo: Weekly groceries, shop 2",Maple Demo Market,Food,132.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-08-11,Fictional demo: Electricity bill,Example Demo Energy,Utilities,180.00,,USD,Demo household checking,Electricity,,,Demo debit
+2026-08-12,Fictional demo: Natural gas bill,Example Demo Energy,Utilities,35.00,,USD,Demo household checking,Natural gas,,,Demo debit
+2026-08-13,Fictional demo: Auto insurance payment,Example Demo Insurance,Transportation,128.00,,USD,Demo household checking,Auto insurance,,,Demo debit
+2026-08-14,Fictional demo: Cleaning and household supplies,Harbor Demo Supplies,Household,99.00,,USD,Demo household checking,Supplies,,,Demo debit
+2026-08-15,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-08-15,Fictional demo: Haircut and personal care,Example Demo Care,Personal,68.00,,USD,Demo household checking,Personal care,,,Demo debit
+2026-08-17,Fictional demo: Routine visit copay,Example Demo Clinic,Health,115.00,,USD,Demo household checking,Medical visits,,,Demo debit
+2026-08-18,Fictional demo: School supplies,Example Demo School Store,Family,148.00,,USD,Demo household checking,School supplies,,,Demo debit
+2026-08-18,"Fictional demo: Weekly groceries, shop 3",Maple Demo Market,Food,143.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-08-20,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,67.50,,USD,Demo household checking,Fuel,,,Demo debit
+2026-08-21,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-08-22,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,71.00,,USD,Demo household checking,Dining out,,,Demo debit
+2026-08-23,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,15.00,,USD,Demo household checking,Coffee,,,Demo debit
+2026-08-23,Fictional demo: Seasonal clothing,Example Demo Outfitters,Personal,108.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-08-24,Fictional demo: Gifts for family,Example Demo Gifts,Giving,83.00,,USD,Demo household checking,Gifts,,,Demo debit
+2026-08-24,Fictional demo: Weekend design project,Example Freelance Client,Other income,,275.00,USD,Demo household checking,Freelance,,,Demo transfer
+2026-08-25,"Fictional demo: Weekly groceries, shop 4",Maple Demo Market,Food,155.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-08-26,Fictional demo: Family activity,Example Demo Recreation,Entertainment,116.00,,USD,Demo household checking,Activities,,,Demo debit
+2026-08-27,Fictional demo: Community donation,Example Demo Community Fund,Giving,60.00,,USD,Demo household checking,Charity,,,Demo debit
+2026-08-27,Fictional demo: Clothing return refund,Example Demo Outfitters,Personal,-32.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-08-28,Fictional demo: Interest received,Example Demo Bank,Other income,,11.65,USD,Demo household checking,Interest,,,Demo bank credit
+2026-09-01,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-09-01,Fictional demo: Monthly fitness membership,Example Demo Fitness,Health,45.00,,USD,Demo household checking,Fitness,,,Demo debit
+2026-09-01,Fictional demo: Monthly apartment rent,Example Demo Apartments,Housing,2100.00,,USD,Demo household checking,Rent,,,Demo debit
+2026-09-02,Fictional demo: After-school care,Example Demo Learning Club,Family,480.00,,USD,Demo household checking,Childcare,,,Demo debit
+2026-09-02,Fictional demo: Monthly transit pass,Example Demo Transit,Transportation,72.00,,USD,Demo household checking,Public transit,,,Demo debit
+2026-09-03,Fictional demo: Home internet,Example Demo Broadband,Utilities,75.00,,USD,Demo household checking,Internet,,,Demo debit
+2026-09-04,"Fictional demo: Weekly groceries, shop 1",Maple Demo Market,Food,132.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-09-05,Fictional demo: Pharmacy essentials,Example Demo Pharmacy,Health,24.00,,USD,Demo household checking,Pharmacy,,,Demo debit
+2026-09-05,Fictional demo: Household mobile plan,Example Demo Wireless,Utilities,110.00,,USD,Demo household checking,Mobile phone,,,Demo debit
+2026-09-06,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,67.50,,USD,Demo household checking,Fuel,,,Demo debit
+2026-09-07,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-09-08,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,71.00,,USD,Demo household checking,Dining out,,,Demo debit
+2026-09-09,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,15.00,,USD,Demo household checking,Coffee,,,Demo debit
+2026-09-09,Fictional demo: Water bill,Example Demo Water,Utilities,47.50,,USD,Demo household checking,Water,,,Demo debit
+2026-09-10,Fictional demo: Music subscription,Example Demo Music,Entertainment,10.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-09-10,Fictional demo: Video subscription,Example Demo Video,Entertainment,19.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-09-11,"Fictional demo: Weekly groceries, shop 2",Maple Demo Market,Food,143.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-09-11,Fictional demo: Electricity bill,Example Demo Energy,Utilities,123.25,,USD,Demo household checking,Electricity,,,Demo debit
+2026-09-12,Fictional demo: Natural gas bill,Example Demo Energy,Utilities,35.00,,USD,Demo household checking,Natural gas,,,Demo debit
+2026-09-13,Fictional demo: Auto insurance payment,Example Demo Insurance,Transportation,128.00,,USD,Demo household checking,Auto insurance,,,Demo debit
+2026-09-14,Fictional demo: Cleaning and household supplies,Harbor Demo Supplies,Household,71.00,,USD,Demo household checking,Supplies,,,Demo debit
+2026-09-15,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-09-15,Fictional demo: Haircut and personal care,Example Demo Care,Personal,50.00,,USD,Demo household checking,Personal care,,,Demo debit
+2026-09-17,Fictional demo: Routine visit copay,Example Demo Clinic,Health,65.00,,USD,Demo household checking,Medical visits,,,Demo debit
+2026-09-18,Fictional demo: School supplies,Example Demo School Store,Family,28.00,,USD,Demo household checking,School supplies,,,Demo debit
+2026-09-18,"Fictional demo: Weekly groceries, shop 3",Maple Demo Market,Food,155.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-09-20,Fictional demo: Quarterly performance bonus,Example Studio Employer,Employment,,450.00,USD,Demo household checking,Bonus,,,Demo direct deposit
+2026-09-20,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,72.75,,USD,Demo household checking,Fuel,,,Demo debit
+2026-09-21,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-09-22,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,86.50,,USD,Demo household checking,Dining out,,,Demo debit
+2026-09-23,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,16.75,,USD,Demo household checking,Coffee,,,Demo debit
+2026-09-23,Fictional demo: Seasonal clothing,Example Demo Outfitters,Personal,68.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-09-24,Fictional demo: Gifts for family,Example Demo Gifts,Giving,47.00,,USD,Demo household checking,Gifts,,,Demo debit
+2026-09-24,Fictional demo: Weekend design project,Example Freelance Client,Other income,,350.00,USD,Demo household checking,Freelance,,,Demo transfer
+2026-09-25,"Fictional demo: Weekly groceries, shop 4",Maple Demo Market,Food,166.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-09-26,Fictional demo: Family activity,Example Demo Recreation,Entertainment,68.00,,USD,Demo household checking,Activities,,,Demo debit
+2026-09-27,Fictional demo: Community donation,Example Demo Community Fund,Giving,60.00,,USD,Demo household checking,Charity,,,Demo debit
+2026-09-28,Fictional demo: Interest received,Example Demo Bank,Other income,,12.00,USD,Demo household checking,Interest,,,Demo bank credit
+2026-10-01,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-10-01,Fictional demo: Monthly fitness membership,Example Demo Fitness,Health,45.00,,USD,Demo household checking,Fitness,,,Demo debit
+2026-10-01,Fictional demo: Monthly apartment rent,Example Demo Apartments,Housing,2100.00,,USD,Demo household checking,Rent,,,Demo debit
+2026-10-02,Fictional demo: After-school care,Example Demo Learning Club,Family,480.00,,USD,Demo household checking,Childcare,,,Demo debit
+2026-10-02,Fictional demo: Monthly transit pass,Example Demo Transit,Transportation,72.00,,USD,Demo household checking,Public transit,,,Demo debit
+2026-10-03,Fictional demo: Home internet,Example Demo Broadband,Utilities,75.00,,USD,Demo household checking,Internet,,,Demo debit
+2026-10-04,"Fictional demo: Weekly groceries, shop 1",Maple Demo Market,Food,143.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-10-05,Fictional demo: Pharmacy essentials,Example Demo Pharmacy,Health,26.00,,USD,Demo household checking,Pharmacy,,,Demo debit
+2026-10-05,Fictional demo: Household mobile plan,Example Demo Wireless,Utilities,110.00,,USD,Demo household checking,Mobile phone,,,Demo debit
+2026-10-06,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,72.75,,USD,Demo household checking,Fuel,,,Demo debit
+2026-10-07,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-10-08,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,86.50,,USD,Demo household checking,Dining out,,,Demo debit
+2026-10-09,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,16.75,,USD,Demo household checking,Coffee,,,Demo debit
+2026-10-09,Fictional demo: Water bill,Example Demo Water,Utilities,51.75,,USD,Demo household checking,Water,,,Demo debit
+2026-10-10,Fictional demo: Music subscription,Example Demo Music,Entertainment,10.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-10-10,Fictional demo: Video subscription,Example Demo Video,Entertainment,19.99,,USD,Demo household checking,Streaming,,,Demo debit
+2026-10-11,"Fictional demo: Weekly groceries, shop 2",Maple Demo Market,Food,155.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-10-11,Fictional demo: Electricity bill,Example Demo Energy,Utilities,131.50,,USD,Demo household checking,Electricity,,,Demo debit
+2026-10-12,Fictional demo: Natural gas bill,Example Demo Energy,Utilities,35.00,,USD,Demo household checking,Natural gas,,,Demo debit
+2026-10-13,Fictional demo: Auto insurance payment,Example Demo Insurance,Transportation,128.00,,USD,Demo household checking,Auto insurance,,,Demo debit
+2026-10-14,Fictional demo: Cleaning and household supplies,Harbor Demo Supplies,Household,78.00,,USD,Demo household checking,Supplies,,,Demo debit
+2026-10-15,Fictional demo: Alex net paycheck,Example Studio Employer,Employment,,2250.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-10-15,Fictional demo: Haircut and personal care,Example Demo Care,Personal,54.50,,USD,Demo household checking,Personal care,,,Demo debit
+2026-10-16,Fictional demo: Vehicle service,Cedar Demo Garage,Transportation,410.00,,USD,Demo household checking,Maintenance,,,Demo debit
+2026-10-17,Fictional demo: Routine visit copay,Example Demo Clinic,Health,65.00,,USD,Demo household checking,Medical visits,,,Demo debit
+2026-10-18,Fictional demo: School supplies,Example Demo School Store,Family,32.00,,USD,Demo household checking,School supplies,,,Demo debit
+2026-10-18,"Fictional demo: Weekly groceries, shop 3",Maple Demo Market,Food,166.50,,USD,Demo household checking,Groceries,,,Demo debit
+2026-10-19,Fictional demo: Home furnishing purchase,Example Demo Home,Household,325.00,,USD,Demo household checking,Furniture,,,Demo debit
+2026-10-20,Fictional demo: Fuel fill-up,Example Demo Fuel,Transportation,78.00,,USD,Demo household checking,Fuel,,,Demo debit
+2026-10-21,Fictional demo: Jordan net paycheck,Example Learning Employer,Employment,,1675.00,USD,Demo household checking,Salary,,,Demo direct deposit
+2026-10-22,Fictional demo: Family dinner,Juniper Demo Kitchen,Food,102.00,,USD,Demo household checking,Dining out,,,Demo debit
+2026-10-23,Fictional demo: Coffee and snacks,Oak Demo Cafe,Food,18.50,,USD,Demo household checking,Coffee,,,Demo debit
+2026-10-23,Fictional demo: Seasonal clothing,Example Demo Outfitters,Personal,78.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-10-24,Fictional demo: Gifts for family,Example Demo Gifts,Giving,56.00,,USD,Demo household checking,Gifts,,,Demo debit
+2026-10-24,Fictional demo: Weekend design project,Example Freelance Client,Other income,,425.00,USD,Demo household checking,Freelance,,,Demo transfer
+2026-10-25,"Fictional demo: Weekly groceries, shop 4",Maple Demo Market,Food,178.00,,USD,Demo household checking,Groceries,,,Demo debit
+2026-10-26,Fictional demo: Family activity,Example Demo Recreation,Entertainment,80.00,,USD,Demo household checking,Activities,,,Demo debit
+2026-10-27,Fictional demo: Community donation,Example Demo Community Fund,Giving,60.00,,USD,Demo household checking,Charity,,,Demo debit
+2026-10-27,Fictional demo: Clothing return refund,Example Demo Outfitters,Personal,-32.00,,USD,Demo household checking,Clothing,,,Demo debit
+2026-10-28,Fictional demo: Interest received,Example Demo Bank,Other income,,12.35,USD,Demo household checking,Interest,,,Demo bank credit
